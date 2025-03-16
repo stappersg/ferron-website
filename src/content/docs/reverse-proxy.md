@@ -4,8 +4,7 @@ title: Reverse proxy functionality
 
 Configuring Ferron as a reverse proxy is straightforward - you just
 need to enable the "rproxy" module, and specify the backend server
-URL in "proxyTo" configuration property (or "secureProxyTo" for HTTPS
-connections).
+URL in "proxyTo" configuration property.
 To configure Ferron as a reverse proxy,
 you can use the configuration below:
 
